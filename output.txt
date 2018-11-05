@@ -1,0 +1,1 @@
+#include<stdlib.h>#include<stdio.h>main(){inta;a=5;return0;}
